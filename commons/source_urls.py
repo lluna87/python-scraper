@@ -1,0 +1,5 @@
+BBVA = "https://hb.bbv.com.ar/fnet/mod/inversiones/NL-dolareuro.jsp"
+Galicia = "https://www.bancogalicia.com/banca/online/web/Personas/ProductosyServicios/Cotizador"
+LaNacion = "http://www.bna.com.ar/Personas"
+Patagonia = "https://ebankpersonas.bancopatagonia.com.ar/eBanking/usuarios/cotizacionMonedaExtranjera.htm"
+Hipotecario = "https://hipotecario.com.ar/cotizaciones.aspx#tablaCotizaciones"

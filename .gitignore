@@ -1,0 +1,11 @@
+
+app.log
+models/__pycache__/patagonia_quotation.cpython-37.pyc
+models/__pycache__/lanacion_quotation.cpython-37.pyc
+models/__pycache__/hipotecario_quotation.cpython-37.pyc
+models/__pycache__/galicia_quotation.cpython-37.pyc
+models/__pycache__/currency_quotation.cpython-37.pyc
+models/__pycache__/bbva_quotation.cpython-37.pyc
+models/__pycache__/__init__.cpython-37.pyc
+commons/__pycache__/__init__.cpython-37.pyc
+commons/__pycache__/source_urls.cpython-37.pyc
